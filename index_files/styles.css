@@ -110,8 +110,8 @@ em {
   text-align: center;
   width: 66%;
   height: auto;
-  max-width: 400px;
-  padding: 8px 24px 0px 24px; }
+  max-width: 360px;
+  padding: 4px 8px 0px 8px; }
   
 #news-logo {
   display: inline-block;
