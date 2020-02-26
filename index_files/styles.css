@@ -43,8 +43,7 @@ html{
 	min-width: 300px;
 	}
 body{
-	margin: 0 auto;
-	max-width: 1080px;
+	left: 0;
 	}
 
 .container-fluid {
