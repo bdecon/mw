@@ -39,11 +39,12 @@ table {
 /* END RESET CSS */
 html{
 	margin: 0 auto;
-	max-width: 900px;
+	max-width: 1080px;
 	min-width: 300px;
 	}
 body{
-	left: 0;
+	margin: 0 auto;
+	max-width: 1080px;
 	}
 
 .container-fluid {
